@@ -30,3 +30,10 @@ Tengo facilidad de aprendizaje (programas, lenguajes, etc.).
 **El Taller de Informática** | *HTML CSS Git JS TS Angular*  
 Udemy | *Web Development* Bootcamp  
 
+
+
+
+### Contacto
+
+
+[vdrr89@gmail.com](mailto:vdrr89@gmail.com) | [instagram.com/vdrr89](https://www.instagram.com/vdrr89)
