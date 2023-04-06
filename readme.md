@@ -1,10 +1,10 @@
 # Proyects
 
-[Self Presentation][https://github.com/vdrr89/me]{.btn.btn-primary} 
-[<kbd> <br> Posts <br> </kbd>][https://github.com/vdrr89/posts]{.btn.btn-primary} 
-[<kbd> <br> Grownline - Online Store <br> </kbd>][https://github.com/vdrr89/grownline]{.btn.btn-primary} 
-[<kbd> <br> Muffi - Services Website <br> </kbd>][https://github.com/vdrr89/muffi]{.btn.btn-primary} 
-[<kbd> <br> Online Store in Angular <br> </kbd>][https://github.com/vdrr89/proyTallerI]{.btn.btn-primary} 
+[Self Presentation](https://github.com/vdrr89/me){.btn.btn-primary} 
+[Posts](https://github.com/vdrr89/posts){.btn.btn-primary} 
+[Grownline - Online Store](https://github.com/vdrr89/grownline){.btn.btn-primary} 
+[Muffi - Services Website](https://github.com/vdrr89/muffi){.btn.btn-primary} 
+[Online Store in Angular](https://github.com/vdrr89/proyTallerI){.btn.btn-primary} 
 
 
 
