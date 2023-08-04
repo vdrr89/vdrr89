@@ -19,17 +19,42 @@ y estoy tomando un curso de Desarrollo Web en Wordpress.
 <table><!-- para el svg: style="background-color:white; padding: 20px; width:50px" -->
 
 <tr>
+<td style="font-weight:bold">Lenguajes</td>
+<!-- HTML -->
 <td><img style="background-color:white; padding: 20px; width:50px" src="/img/html5.svg"></td>
+<!-- CSS -->
 <td><img style="background-color:white; padding: 20px; width:50px" src="/img/css3.svg"></td>
+<!-- JS -->
 <td><img style="background-color:white; padding: 20px; width:50px" src="/img/javascript.svg"></td>
+<!-- ANGULAR -->
+<td><img style="background-color:white; padding: 20px; width:50px" src="/img/angular.svgg"></td>
 </tr>
 
 <tr>
+<td style="font-weight:bold">Web Development Tools</td>
+<!-- VSC -->
 <td><img style="background-color:white; padding: 20px; width:50px" src="/img/visualstudiocode.svg"></td>
+<!-- DW -->
 <td><img style="background-color:white; padding: 20px; width:50px" src="/img/adobedreamweaver.svg"></td>
+<!-- GIT -->
+<td><img style="background-color:white; padding: 20px; width:50px" src="/img/github.svg"></td>
+</tr>
+
+<tr>
+<td style="font-weight:bold">UX/UI Tools</td>
+<!-- XD -->
 <td><img style="background-color:white; padding: 20px; width:50px" src="/img/adobexd.svg"></td>
+<!-- FIGMA -->
 <td><img style="background-color:white; padding: 20px; width:50px" src="/img/figma.svg"></td>
+</tr>
+
+<tr>
+<td style="font-weight:bold">Design Tools</td>
+<!-- ILLUSTRATOR -->
 <td><img style="background-color:white; padding: 20px; width:50px" src="/img/adobeillustrator.svg"></td>
+<!-- PHOTOSHOP -->
+<!-- ADOBE -->
+<td><img style="background-color:white; padding: 20px; width:50px" src="/img/adobe.svg"></td>
 </tr>
 
 </table>
