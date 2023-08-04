@@ -1,12 +1,14 @@
-# Proyects
+## Algunos proyectos que tengo aquí:  
 
-[Self Presentation](https://github.com/vdrr89/me)
-[Posts](https://github.com/vdrr89/posts)
-[Grownline - Online Store](https://github.com/vdrr89/grownline)
-[Muffi - Services Website](https://github.com/vdrr89/muffi)
-[Online Store in Angular](https://github.com/vdrr89/proyTallerI)
+[Self Presentation](https://github.com/vdrr89/me) 
 
-# About me
+[Posts](https://github.com/vdrr89/posts)  
+
+[Grownline - Online Store](https://github.com/vdrr89/grownline)  
+
+[Muffi Marvelous - Presentation](https://github.com/vdrr89/muffi)  
+
+[Online Store in Angular](https://github.com/vdrr89/proyTallerI)  
 
 Soy Verónica, vivo en Montevideo, Uruguay.
 Estoy estudiando una Licenciatura en Diseño de Comunicación Visual,
@@ -16,6 +18,8 @@ y estoy tomando un curso de Desarrollo Web en Wordpress.
 
 <table style="border-style:0px"><!-- para el svg: style="padding: 20px; width:50px" -->
 
+
+</table>
 ## My Education
 
 **Udelar** | [LDCV | Bachelor on *Visual Design Communication*](http://www.fadu.edu.uy/ldcv/)
