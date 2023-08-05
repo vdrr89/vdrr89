@@ -19,28 +19,15 @@ y estoy tomando un curso de Desarrollo Web en Wordpress.
 <!-- para el svg: style="background-color:white; padding: 20px; width:50px" -->
 
 <p style="align:left">
-<span style="font-weight:bold">Lenguajes</span>
 <!-- HTML --><img style="background-color:white; padding: 20px; width:50px" src="/img/html5.svg">
 <!-- CSS --><img style="background-color:white; padding: 20px; width:50px" src="/img/css3.svg">
 <!-- JS --><img style="background-color:white; padding: 20px; width:50px" src="/img/javascript.svg">
 <!-- ANGULAR --><img style="background-color:white; padding: 20px; width:50px" src="/img/angular.svgg">
-</p>
-
-<p style="align:left">
-<span style="font-weight:bold">Web Development Tools</span>
 <!-- VSC --><img style="background-color:white; padding: 20px; width:50px" src="/img/visualstudiocode.svg">
 <!-- DW --><img style="background-color:white; padding: 20px; width:50px" src="/img/adobedreamweaver.svg">
 <!-- GIT --><img style="background-color:white; padding: 20px; width:50px" src="/img/github.svg">
-</p>
-
-<p style="align:left">
-<span style="font-weight:bold">UX/UI Tools</span>
 <!-- XD --><img style="background-color:white; padding: 20px; width:50px" src="/img/adobexd.svg">
 <!-- FIGMA --><img style="background-color:white; padding: 20px; width:50px" src="/img/figma.svg">
-</p>
-
-<p style="align:left">
-<span style="font-weight:bold">Design Tools</span>
 <!-- ILLUSTRATOR --><img style="background-color:white; padding: 20px; width:50px" src="/img/adobeillustrator.svg">
 <!-- PHOTOSHOP -->
 <!-- ADOBE --><img style="background-color:white; padding: 20px; width:50px" src="/img/adobe.svg">
