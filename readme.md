@@ -45,11 +45,16 @@ Estoy estudiando una Licenciatura en Diseño de Comunicación Visual, y estoy to
 
 **Udemy** | [*Wordpress Theme Development*](https://www.udemy.com/course/experto-de-photoshop-a-wordpress-creando-2-themes-plantillas/) | en curso 15% done
 
+
+
 **IDF** | [Interaction Design Foundation | *UX UI*](https://www.interaction-design.org/courses?ad-set=ux-foundation&gclid=Cj0KCQjwuLShBhC_ARIsAFod4fL1UOLgXklWWIQkeKDqgktqJQDwA_qccHIoxk51K3pNcp0ySAhMZqAaAq9SEALw_wcB) | Cursos: Human Computer Interaction y UI Patterns for Successful Software 
 
 **Udemy** | [*Web Development* Bootcamp ](https://www.udemy.com/course/the-complete-web-development-bootcamp) | 50% done
+
 **El Taller de Informática** | [*HTML CSS Git JS TS Angular*](https://www.tallerdeinformatica.edu.uy/CursosOnline)
+
 **GA** | [General Assembly | *HTML y CSS* ](https://dash.generalassemb.ly/)
+
 
 ## Contact
 
