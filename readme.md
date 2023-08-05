@@ -10,6 +10,11 @@
 
 [Online Store in Angular](https://github.com/vdrr89/proyTallerI)  
 
+
+
+## About Me
+
+
 Soy Verónica, vivo en Montevideo, Uruguay.
 
 Estoy estudiando una Licenciatura en Diseño de Comunicación Visual,
@@ -54,3 +59,5 @@ Envíame un <p><i class="fa-solid fa-envelope" style="color: #7d7d7d;"></i></p> 
 Visita mi [LinkedIn.com/in/veronicaromero89](linkedin.com/in/veronicaromero89)
 
 Mira mis proyectos de **Diseño** en [behance.net/vdrr89](https://behance.net/vdrr89)
+
+<script src="https://kit.fontawesome.com/a9f99944df.js" crossorigin="anonymous"></script>
