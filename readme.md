@@ -66,4 +66,4 @@ Mira mis proyectos de **Diseño** en [behance.net/vdrr89](https://behance.net/vd
 
 ---
 
-![Profile views](https://komarev.com/ghpvc/?username=vdrr89)
+![Profile views](https://komarev.com/ghpvc/?username=vdrr89&color=grey&style=for-the-badge)
