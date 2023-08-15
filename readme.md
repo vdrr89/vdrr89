@@ -10,12 +10,19 @@
 
 [Online Store in Angular](https://github.com/vdrr89/proyTallerI)  
 
+
+
+## About Me
+
+
 Soy Verónica, vivo en Montevideo, Uruguay.
-Estoy estudiando una Licenciatura en Diseño de Comunicación Visual,
-y estoy tomando un curso de Desarrollo Web en Wordpress.
+
+Estoy estudiando una Licenciatura en Diseño de Comunicación Visual, y estoy tomando un curso de Desarrollo Web en Wordpress.
+
 
 ## My Skills
 
+<<<<<<< HEAD
 <table><!-- para el svg: style="background-color:white; padding: 20px; width:50px" -->
 
 <tr>
@@ -53,27 +60,45 @@ y estoy tomando un curso de Desarrollo Web en Wordpress.
 <td style="font-weight:bold">Design Tools</td>
 <!-- ILLUSTRATOR -->
 <td><img style="background-color:white; padding: 20px; width:50px" src="/img/adobeillustrator.svg"></td>
-<!-- PHOTOSHOP -->
-<!-- ADOBE -->
-<td><img style="background-color:white; padding: 20px; width:50px" src="/img/adobe.svg"></td>
-</tr>
+=======
+<!-- para el svg: style="background-color:white; padding: 20px; width:50px" -->
 
-</table>
+<p style="align:left">
+<!-- HTML --><img style="background-color:white; padding: 20px; width:50px" src="/img/html5.svg">
+<!-- CSS --><img style="background-color:white; padding: 20px; width:50px" src="/img/css3.svg">
+<!-- JS --><img style="background-color:white; padding: 20px; width:50px" src="/img/javascript.svg">
+<!-- ANGULAR --><img style="background-color:white; padding: 20px; width:50px" src="/img/angular.svgg">
+<!-- VSC --><img style="background-color:white; padding: 20px; width:50px" src="/img/visualstudiocode.svg">
+<!-- DW --><img style="background-color:white; padding: 20px; width:50px" src="/img/adobedreamweaver.svg">
+<!-- GIT --><img style="background-color:white; padding: 20px; width:50px" src="/img/github.svg">
+<!-- XD --><img style="background-color:white; padding: 20px; width:50px" src="/img/adobexd.svg">
+<!-- FIGMA --><img style="background-color:white; padding: 20px; width:50px" src="/img/figma.svg">
+<!-- ILLUSTRATOR --><img style="background-color:white; padding: 20px; width:50px" src="/img/adobeillustrator.svg">
+>>>>>>> 87141513887c7271f27d0564c6234d677b6c82e6
+<!-- PHOTOSHOP -->
+<!-- ADOBE --><img style="background-color:white; padding: 20px; width:50px" src="/img/adobe.svg">
+</p>
+
 ## My Education
 
-**Udelar** | [LDCV | Bachelor on *Visual Design Communication*](http://www.fadu.edu.uy/ldcv/)
+**Udelar** | [LDCV | Bachelor on *Visual Design Communication*](http://www.fadu.edu.uy/ldcv/) | en curso 80% done
 
-**IDF** | [Interaction Design Foundation | *UX UI*](https://www.interaction-design.org/courses?ad-set=ux-foundation&gclid=Cj0KCQjwuLShBhC_ARIsAFod4fL1UOLgXklWWIQkeKDqgktqJQDwA_qccHIoxk51K3pNcp0ySAhMZqAaAq9SEALw_wcB)
+**Udemy** | [*Wordpress Theme Development*](https://www.udemy.com/course/experto-de-photoshop-a-wordpress-creando-2-themes-plantillas/) | en curso 15% done
 
-**Udemy** | [*Wordpress Theme Development*](https://www.udemy.com/course/)
-**Udemy** | [*Web Development* Bootcamp ](https://www.udemy.com/course/the-complete-web-development-bootcamp)
+
+
+**IDF** | [Interaction Design Foundation | *UX UI*](https://www.interaction-design.org/courses?ad-set=ux-foundation&gclid=Cj0KCQjwuLShBhC_ARIsAFod4fL1UOLgXklWWIQkeKDqgktqJQDwA_qccHIoxk51K3pNcp0ySAhMZqAaAq9SEALw_wcB) | Cursos: Human Computer Interaction y UI Patterns for Successful Software 
+
+**Udemy** | [*Web Development* Bootcamp ](https://www.udemy.com/course/the-complete-web-development-bootcamp) | 50% done
+
 **El Taller de Informática** | [*HTML CSS Git JS TS Angular*](https://www.tallerdeinformatica.edu.uy/CursosOnline)
+
 **GA** | [General Assembly | *HTML y CSS* ](https://dash.generalassemb.ly/)
+
 
 ## Contact
 
-<div>
-
+<<<<<<< HEAD
 <p>Envíame un **mail** a <a href="mailto:vdrr89@gmail.com">vdrr89@gmail.com</a></p>
 
 <p>Encuentrame en <a href="https://www.linkedin.com/in/veronicaromero89/">linkedin.com/in/veronicaromero89</a></p>
@@ -84,3 +109,12 @@ y estoy tomando un curso de Desarrollo Web en Wordpress.
 
 
 ![Profile views](https://komarev.com/ghpvc/?username=vdrr89)
+=======
+Envíame un <p><i class="fa-solid fa-envelope" style="color: #7d7d7d;"></i></p> Mail a [vdrr89@gmail.com](mailto:vdrr89@gmail.com)
+
+Visita mi [LinkedIn.com/in/veronicaromero89](linkedin.com/in/veronicaromero89)
+
+Mira mis proyectos de **Diseño** en [behance.net/vdrr89](https://behance.net/vdrr89)
+
+<script src="https://kit.fontawesome.com/a9f99944df.js" crossorigin="anonymous"></script>
+>>>>>>> 87141513887c7271f27d0564c6234d677b6c82e6
