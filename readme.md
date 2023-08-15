@@ -26,7 +26,7 @@ Estoy estudiando una Licenciatura en Diseño de Comunicación Visual, y estoy to
 <!-- HTML --><img style="background-color:white; padding: 20px; width:50px" src="/img/html5.svg">
 <!-- CSS --><img style="background-color:white; padding: 20px; width:50px" src="/img/css3.svg">
 <!-- JS --><img style="background-color:white; padding: 20px; width:50px" src="/img/javascript.svg">
-<!-- ANGULAR --><img style="background-color:white; padding: 20px; width:50px" src="/img/angular.svgg">
+<!-- ANGULAR --><img style="background-color:white; padding: 20px; width:50px" src="/img/angular.svg">
 <!-- VSC --><img style="background-color:white; padding: 20px; width:50px" src="/img/visualstudiocode.svg">
 <!-- DW --><img style="background-color:white; padding: 20px; width:50px" src="/img/adobedreamweaver.svg">
 <!-- GIT --><img style="background-color:white; padding: 20px; width:50px" src="/img/github.svg">
