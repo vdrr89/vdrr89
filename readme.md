@@ -39,13 +39,15 @@ Estoy estudiando una Licenciatura en Diseño de Comunicación Visual, y estoy to
 
 ## My Education
 
-**Udelar** | [LDCV | Bachelor on *Visual Design Communication*](http://www.fadu.edu.uy/ldcv/) | en curso 80% done
+### Design
 
-**Udemy** | [*Wordpress Theme Development*](https://www.udemy.com/course/experto-de-photoshop-a-wordpress-creando-2-themes-plantillas/) | en curso 15% done
-
-
+**Udelar** | [LDCV | Bachelor on *Visual Design Communication*](http://www.fadu.edu.uy/ldcv/) | en curso
 
 **IDF** | [Interaction Design Foundation | *UX UI*](https://www.interaction-design.org/courses?ad-set=ux-foundation&gclid=Cj0KCQjwuLShBhC_ARIsAFod4fL1UOLgXklWWIQkeKDqgktqJQDwA_qccHIoxk51K3pNcp0ySAhMZqAaAq9SEALw_wcB) | Cursos: Human Computer Interaction y UI Patterns for Successful Software 
+
+### Web Development
+
+**Udemy** | [*Wordpress Theme Development*](https://www.udemy.com/course/experto-de-photoshop-a-wordpress-creando-2-themes-plantillas/) | en curso 15% done
 
 **Udemy** | [*Web Development* Bootcamp ](https://www.udemy.com/course/the-complete-web-development-bootcamp) | 50% done
 
