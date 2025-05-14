@@ -17,8 +17,6 @@
 
 Soy Verónica, vivo en Montevideo, Uruguay.
 
-Estoy estudiando una Licenciatura en Diseño de Comunicación Visual, y estoy tomando un curso de Desarrollo Web en Wordpress.
-
 
 ## My Skills
 
